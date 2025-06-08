@@ -1,5 +1,6 @@
 # Ignore specific subfolder (until ready to publish)
 GenAIandNudge/
+AI_in_Edu/
 
 # Ignore all .DS_Store files
 .DS_Store
